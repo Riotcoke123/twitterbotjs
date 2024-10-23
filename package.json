@@ -1,0 +1,21 @@
+
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "A simple Twitter bot using Node.js and Twitter API v2.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "twitter-api-v2": "^1.13.0"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "nodejs",
+    "api"
+  ],
+  "author": "RIOTCOKE",
+  "license": "MIT"
+}
