@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <img src="https://github.com/user-attachments/assets/26d061f4-daf3-40a7-b014-633cea139d06" alt="X logo" width="200" height="200" />
     <h1>Twitter Bot in Node.js</h1>
     <p>This is a simple Twitter bot implemented in Node.js using the Twitter API v2. The bot can post tweets while adhering to a limit of 50 tweets within a 24-hour period.</p>
     <h2>Features</h2>
